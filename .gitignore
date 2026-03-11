@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Model cache
+.cache/
+
+# Data files
+*.pdf
+*.csv
+
+# Vector DB storage
+qdrant_storage/
+storage/
