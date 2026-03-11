@@ -1,17 +1,12 @@
-fastapi
-inngest
-llama-index-core
-llama-index-readers-file
-python-dotenv
-qdrant-client
-uvicorn
 streamlit
-groq
+fastapi
+uvicorn
+qdrant-client
+python-dotenv
 sentence-transformers
-SentenceSplitter
+groq==0.9.0
+inngest
 pydantic
-pypdf
-numpy
-python-3.11
+
 
 
