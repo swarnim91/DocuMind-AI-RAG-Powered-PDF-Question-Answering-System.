@@ -7,6 +7,6 @@ pypdf
 python-dotenv
 inngest
 llama-index-core
-llama-index-embeddings-openai
 sentence-transformers
 httpx==0.27.0
+
