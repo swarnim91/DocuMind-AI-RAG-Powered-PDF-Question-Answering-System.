@@ -4,12 +4,12 @@ uvicorn
 qdrant-client
 python-dotenv
 sentence-transformers
-groq==0.9.0
 inngest
 pydantic
 llama-index
 groq==0.11.0
 httpx==0.27.0
+
 
 
 
