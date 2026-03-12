@@ -3,10 +3,10 @@ uvicorn
 streamlit
 groq==0.11.0
 qdrant-client
+sentence-transformers
 pypdf
 python-dotenv
 inngest
 llama-index-core
-sentence-transformers
+llama-index-readers-file
 httpx==0.27.0
-
